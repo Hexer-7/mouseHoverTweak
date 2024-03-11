@@ -1,12 +1,11 @@
-=================================[10TimeHover Script]=================================
+=========[10TimeHover Script]=========
 
 * 10TimeHover is designed to reduce the hover time for mouse actions in the Windows context menu. Here's a brief explanation of its functionality:
 
   When you right-click on items in the Windows context menu, there is a delay before the menu options appear. This delay is known as the hover time. The 10TimeHover script aims to minimize this delay, providing a quicker response when interacting with the context menu.
 
   To achieve this, the script likely adjusts specific registry settings related to mouse hover behavior in Windows. The changes made by the script result in a more efficient and faster display of the context menu when right-clicking on items.
-
-==============================[WebSearchBarDisable Script]==============================
+=========[WebSearchBarDisable Script]=========
 
 * WebSearchBarDisable is a tool designed to disable Bing search in the Windows search feature. Here's a brief explanation of its functionality:
 
@@ -17,8 +16,7 @@
   The tool likely achieves this by modifying specific settings or registry entries related to the Windows search functionality. It provides a straightforward solution for users who prefer to have a more localized search experience without Bing web search results.
 
   In summary, WebSearchBarDisable is a utility that allows users to disable Bing search integration in the Windows search feature, providing a more customized and privacy-focused search experience.
-
-=============================[AddAppToRunWithSystem Tool]=============================
+=========[AddAppToRunWithSystem Tool]=========
 
 * AddAppToRunWithSystem is a utility designed to seamlessly integrate a specific program or BAT script into the Windows registry, ensuring that it launches automatically with the operating system. Additionally, this tool provides the convenience of appearing in the "Startup" section of the Task Manager.
 
