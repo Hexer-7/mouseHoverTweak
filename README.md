@@ -13,10 +13,6 @@
 
   In Windows, the search feature is integrated with Bing, and when users perform a search, the results may include web search results from Bing alongside local files and applications. Some users prefer to disable web search integration for privacy reasons or simply to customize their search experience.
 
-  WebSearchBarDisable addresses this by allowing users to disable the web search bar in the Windows search interface. By using this tool, users can limit the search results to only display local files and applications, excluding web search results from Bing.
-
-  The tool likely achieves this by modifying specific settings or registry entries related to the Windows search functionality. It provides a straightforward solution for users who prefer to have a more localized search experience without Bing web search results.
-
   In summary, WebSearchBarDisable is a utility that allows users to disable Bing search integration in the Windows search feature, providing a more customized and privacy-focused search experience.
   
   
